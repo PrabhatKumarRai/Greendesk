@@ -23,6 +23,6 @@ Get all the reporting of the help desk on the dashboard.
 
 => You can rename the project directory as per your requirement.
 
-> Now you can run the project in your browser and start the initial setup process which creates database and the user account.
+=> Now you can run the project in your browser and start the initial setup process which creates database and the user account.
 
 => Ones the project setup is completed, you are all set to visit your Greendesk website and access the admin panel.
