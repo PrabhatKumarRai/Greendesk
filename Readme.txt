@@ -1,7 +1,7 @@
 -----------------
 --- Greendesk ---
 -----------------
-#'Greendesk' is a powerful help article management system with multiple themes and attractive design.
+#'Greendesk' is a help article management system with multiple themes and attractive design.
 With the secure and robust admin panel of 'Greendesk', smoothly create and manage your help articles.
 Arrange your categories, folders, and articles simply by dragging them to the desired location.
 Get all the reporting of the help desk on the dashboard.
